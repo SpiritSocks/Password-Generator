@@ -1,0 +1,44 @@
+#container{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+}
+
+input{
+    cursor: pointer;
+    margin: 7px;
+}
+label{
+    font-size: 1.3rem;
+}
+
+#resetBtn{
+    width: 100px;
+    border-radius: 7px;
+    border: none;
+    margin: 7px;
+    color: white;
+    background-color: rgb(21, 86, 90);
+    cursor: pointer;
+}
+
+#generate{
+    width: 200px;
+    height: 50px;
+    border-radius: 7px;
+    border: none;
+    margin: 7px;
+    color: white;
+    background-color: rgb(206, 35, 35);
+    cursor: pointer;
+    font-weight: bold;
+}
+
+#lengthOfPass{
+    text-align: center;
+    font-size: 1.3rem;
+    width: 100px;
+}
+
+#result{
+    margin-top: 20px;
+}
